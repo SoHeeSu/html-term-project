@@ -19,3 +19,21 @@ footer {
   width: 1200px;  
   margin: @ auto;
 }
+
+
+.main text {
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size:20px;
+}
+h4 {
+  font-size: 20px;
+}
+h5 {
+  font-size: 35px;
+}
